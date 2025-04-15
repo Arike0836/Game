@@ -32,16 +32,16 @@
 ### Struktur Proyek
 
 #### 1. *Folder Struktur Proyek*
-   - *Assets/*: Menyimpan semua aset grafis, audio, dan data.
-     - *Images/*: Gambar karakter dan latar belakang.
-     - *Audio/*: Musik latar dan efek suara.
-     - *Fonts/*: Font yang digunakan dalam UI.
-   - *Scripts/*: Menyimpan semua skrip C#.
+   - *Assets*: Menyimpan semua aset grafis, audio, dan data.
+     - *Images*: Gambar karakter dan latar belakang.
+     - *Audio*: Musik latar dan efek suara.
+     - *Fonts*: Font yang digunakan dalam UI.
+   - *Scripts*: Menyimpan semua skrip C#.
      - *Character.cs*: Skrip untuk logika karakter dan interaksi.
      - *GameManager.cs*: Skrip untuk mengelola alur permainan dan interaksi.
-   - *Scenes/*: Menyimpan semua scene game.
+   - *Scenes*: Menyimpan semua scene game.
      - *MainMenu.tscn*: Scene untuk menu utama.
      - *GameScene.tscn*: Scene untuk gameplay utama.
-   - *UI/*: Menyimpan semua elemen UI.
-     - *Buttons/*: Sumber daya untuk tombol.
-     - *Labels/*: Sumber daya untuk label dialog.
+   - *UI*: Menyimpan semua elemen UI.
+     - *Buttons*: Sumber daya untuk tombol.
+     - *Labels*: Sumber daya untuk label dialog.
